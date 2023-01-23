@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "576029374532",
+    "project_id": "chat-app-65663",
+    "storage_bucket": "chat-app-65663.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576029374532:android:1414c9dd18d6dd42fd2411",
+        "android_client_info": {
+          "package_name": "com.rafid.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576029374532-8rhdbcni15ahv1o856f0k9jd15ucljuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rafid.chatapp",
+            "certificate_hash": "fb2714e0bd8560dcb984d9ba282cac5f31a4d914"
+          }
+        },
+        {
+          "client_id": "576029374532-jcv0k9o6e6pmfrdv6ifi898imukh06mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnY_M5qVf09mKNOBUlXGVcGHWoWGC_YAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576029374532-jcv0k9o6e6pmfrdv6ifi898imukh06mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
